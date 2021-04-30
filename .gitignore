@@ -1,0 +1,7 @@
+.idea
+__pycache__
+venv
+debug.log
+access/access.py
+access/sheetChangePriceBling.json
+run.py
